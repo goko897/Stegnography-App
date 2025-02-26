@@ -2,7 +2,7 @@
 
 A web application for hiding secret messages in images using steganography, built with **React** frontend and **Flask** backend.
 
-![Demo](https://via.placeholder.com/800x400.png?text=Steganography+Tool+Demo)  
+![Demo](https://github.com/user-attachments/assets/635d7397-c704-4f7a-a871-1a50e26781df)
 *Add actual screenshot here*
 
 ---
@@ -13,6 +13,7 @@ A web application for hiding secret messages in images using steganography, buil
 - 🔓 **Decrypt messages** from images using the correct password
 - 🖼️ Supports **PNG/JPG** image formats
 - 🎨 **Responsive two-column UI** for easy navigation
+
 - 🛡️ Basic password authentication for security
 - 📥 **Automatic download** of encrypted images
 - 💻 Cross-platform compatibility
